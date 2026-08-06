@@ -125,9 +125,13 @@ Majorly configuring the browser to load the web page with my react and apache bu
 4. Point a custom domain to the load balancer.
 
          # PROJECT SCREENSHOTS
+   Security group showing inbound rules
 <img width="1920" height="1034" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/cc8dbeec-7b07-4dd8-b214-150c134554fd" />
+
+   EC2 instance dashboard
 <img width="1920" height="1032" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/b09aab9a-534d-42f0-a4dc-2e31b9a46de1" />
 
+   
 <img width="1920" height="1032" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/d238a60d-8bfc-4329-b80a-632254052b32" />
 <img width="1920" height="1041" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/61138319-6787-4812-9881-0d82522abec2" />
 
