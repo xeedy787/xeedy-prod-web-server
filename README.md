@@ -131,14 +131,22 @@ Majorly configuring the browser to load the web page with my react and apache bu
    EC2 instance dashboard
 <img width="1920" height="1032" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/b09aab9a-534d-42f0-a4dc-2e31b9a46de1" />
 
-   
+   Target Group for ASG AND ALB
 <img width="1920" height="1032" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/d238a60d-8bfc-4329-b80a-632254052b32" />
+
+   User data script used within launch template
 <img width="1920" height="1041" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/61138319-6787-4812-9881-0d82522abec2" />
 
-
+   CloudWatch Scaling Policy
 <img width="1920" height="1030" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/58b4fc97-feee-44fb-877a-815824808de3" />
+
+   Custom AMI used for ec2 deployment
 <img width="1920" height="1030" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/e1aba280-6a95-4834-8aa8-f75bdc5102e9" />
+
+   Auto-Scaling Group
 <img width="1920" height="1036" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/ac14dc58-8da7-4720-8a16-3ad2022cf87d" />
+
+   Application Load-Balancer
 <img width="1920" height="1028" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/83b11d97-24c4-4d51-abec-dcc9bb0d5654" />
 
 
